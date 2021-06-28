@@ -1,0 +1,80 @@
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	7283.819419030369
+explQual_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	7968.645862451107
+timings_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	40.95565215375973
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_20_sample_average_True_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_20_sample_average_True_MLPClassifier_distance
+	5820.939499283871
+explQual_Spambase_4500_20_sample_average_True_MLPClassifier_distance
+	7711.020587188409
+timings_Spambase_4500_20_sample_average_True_MLPClassifier_distance
+	374.7706049354747
+EXPLAINERS: ['fires', 'shap']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	4626.411140788627
+explQual_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	6502.619778987185
+timings_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	45.179262836347334
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	1536.4138085631307
+explQual_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	5739.144841952762
+timings_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	55.825871036737226
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_20_sample_average_True_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_20_sample_average_True_MLPClassifier_distance
+	1584.982259601531
+explQual_Spambase_4500_20_sample_average_True_MLPClassifier_distance
+	5947.332553892234
+timings_Spambase_4500_20_sample_average_True_MLPClassifier_distance
+	463.5210906122811
+EXPLAINERS: ['fires', 'lime']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	1108.424381107889
+explQual_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	5389.49232531069
+timings_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	58.367478050349746
+EXPLAINERS: ['fires']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	28.581705769383763
+explQual_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	5691.358958985002
+timings_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	4.025576896325219
+EXPLAINERS: ['custom']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	29.14294117663753
+explQual_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	5635.619586183398
+timings_Spambase_4500_1_sample_average_False_MLPClassifier_distance
+	25.2716929166927

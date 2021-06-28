@@ -1,0 +1,80 @@
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	0.6933333333333334
+stability_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	6546.007476206717
+explQual_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	8161.520553608017
+timings_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	8.243367218587082
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_20_sample_average_True_Logistic Regression_distance
+	0.6933333333333334
+stability_Credit default_5000_20_sample_average_True_Logistic Regression_distance
+	7190.415601113697
+explQual_Credit default_5000_20_sample_average_True_Logistic Regression_distance
+	8028.108715901104
+timings_Credit default_5000_20_sample_average_True_Logistic Regression_distance
+	161.50548995527788
+EXPLAINERS: ['fires', 'shap']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	0.6933333333333334
+stability_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	4478.31867000869
+explQual_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	7633.845226625106
+timings_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	12.134786777809495
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	0.6933333333333334
+stability_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	3125.35114417777
+explQual_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	5192.010338261009
+timings_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	21.71732430876
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_20_sample_average_True_Logistic Regression_distance
+	0.6933333333333334
+stability_Credit default_5000_20_sample_average_True_Logistic Regression_distance
+	4624.492866684407
+explQual_Credit default_5000_20_sample_average_True_Logistic Regression_distance
+	5584.526770863305
+timings_Credit default_5000_20_sample_average_True_Logistic Regression_distance
+	422.99962460054667
+EXPLAINERS: ['fires', 'lime']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	0.6933333333333334
+stability_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	2016.9989734909295
+explQual_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	5914.338978485196
+timings_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	30.019447364087682
+EXPLAINERS: ['fires']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	0.6933333333333334
+stability_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	164.1294261686427
+explQual_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	6659.011606645222
+timings_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	4.563946918497095
+EXPLAINERS: ['custom']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	0.6933333333333334
+stability_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	250.03324273431295
+explQual_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	4738.6125479615985
+timings_Credit default_5000_1_sample_average_False_Logistic Regression_distance
+	2.0665864528273232

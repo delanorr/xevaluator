@@ -1,0 +1,80 @@
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	0.76
+stability_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	8268.730514041592
+explQual_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	8113.297406598389
+timings_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	42.625420692551415
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RTG_5000_20_sample_average_True_Logistic Regression_distance
+	0.76
+stability_RTG_5000_20_sample_average_True_Logistic Regression_distance
+	7131.697327008799
+explQual_RTG_5000_20_sample_average_True_Logistic Regression_distance
+	7263.963177262626
+timings_RTG_5000_20_sample_average_True_Logistic Regression_distance
+	806.9950835759228
+EXPLAINERS: ['fires', 'shap']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	0.76
+stability_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	4999.376070085366
+explQual_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	7160.11702690621
+timings_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	46.45967980872956
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	0.76
+stability_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	2490.031295828203
+explQual_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	4627.243368372408
+timings_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	34.49544120329665
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RTG_5000_20_sample_average_True_Logistic Regression_distance
+	0.76
+stability_RTG_5000_20_sample_average_True_Logistic Regression_distance
+	4110.041530079501
+explQual_RTG_5000_20_sample_average_True_Logistic Regression_distance
+	5718.958522676987
+timings_RTG_5000_20_sample_average_True_Logistic Regression_distance
+	704.9123535176623
+EXPLAINERS: ['fires', 'lime']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	0.76
+stability_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	1556.0641949331089
+explQual_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	5483.8082336950365
+timings_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	41.07375011575641
+EXPLAINERS: ['fires']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	0.76
+stability_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	169.56748965708846
+explQual_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	7625.890182802499
+timings_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	4.713179286074592
+EXPLAINERS: ['custom']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	0.76
+stability_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	121.2944277112025
+explQual_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	3509.653836004136
+timings_RTG_5000_1_sample_average_False_Logistic Regression_distance
+	4.07776805353933

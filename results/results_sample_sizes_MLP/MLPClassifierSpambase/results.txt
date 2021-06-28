@@ -1,0 +1,80 @@
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_115_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_115_False_MLPClassifier_distance
+	7283.819419030369
+explQual_Spambase_4500_1_115_False_MLPClassifier_distance
+	7968.645862451107
+timings_Spambase_4500_1_115_False_MLPClassifier_distance
+	42.66426171805506
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_115_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_115_False_MLPClassifier_distance
+	1536.4138085631307
+explQual_Spambase_4500_1_115_False_MLPClassifier_distance
+	5739.144841952762
+timings_Spambase_4500_1_115_False_MLPClassifier_distance
+	49.66959812391178
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_571_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_571_False_MLPClassifier_distance
+	6451.406518393559
+explQual_Spambase_4500_1_571_False_MLPClassifier_distance
+	7648.684334397057
+timings_Spambase_4500_1_571_False_MLPClassifier_distance
+	119.04595416499615
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_571_False_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_1_571_False_MLPClassifier_distance
+	815.998762701176
+explQual_Spambase_4500_1_571_False_MLPClassifier_distance
+	5716.809923162929
+timings_Spambase_4500_1_571_False_MLPClassifier_distance
+	61.47171970101954
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_10_115_True_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_10_115_True_MLPClassifier_distance
+	6072.375614050219
+explQual_Spambase_4500_10_115_True_MLPClassifier_distance
+	7805.861020367521
+timings_Spambase_4500_10_115_True_MLPClassifier_distance
+	205.10526492207282
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_10_115_True_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_10_115_True_MLPClassifier_distance
+	1584.982259601531
+explQual_Spambase_4500_10_115_True_MLPClassifier_distance
+	5947.332553892234
+timings_Spambase_4500_10_115_True_MLPClassifier_distance
+	278.06441851908676
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_10_571_True_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_10_571_True_MLPClassifier_distance
+	5622.4101005151615
+explQual_Spambase_4500_10_571_True_MLPClassifier_distance
+	7653.946876312462
+timings_Spambase_4500_10_571_True_MLPClassifier_distance
+	768.2894952280112
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_10_571_True_MLPClassifier_distance
+	0.9266666666666666
+stability_Spambase_4500_10_571_True_MLPClassifier_distance
+	1268.1406057807458
+explQual_Spambase_4500_10_571_True_MLPClassifier_distance
+	5758.433935740269
+timings_Spambase_4500_10_571_True_MLPClassifier_distance
+	352.249917413028

@@ -1,0 +1,80 @@
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	0.88
+stability_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	7168.424679776214
+explQual_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	8148.041228464055
+timings_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	15.356788805132965
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_20_sample_average_True_Logistic Regression_distance
+	0.88
+stability_Spambase_4500_20_sample_average_True_Logistic Regression_distance
+	3278.9779115183273
+explQual_Spambase_4500_20_sample_average_True_Logistic Regression_distance
+	6726.965587600218
+timings_Spambase_4500_20_sample_average_True_Logistic Regression_distance
+	328.189181630878
+EXPLAINERS: ['fires', 'shap']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	0.88
+stability_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	4450.450336503326
+explQual_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	7482.921580167282
+timings_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	20.990410154365236
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	0.88
+stability_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	2644.3143535977742
+explQual_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	4006.6866807497495
+timings_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	27.338494503230322
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_20_sample_average_True_Logistic Regression_distance
+	0.88
+stability_Spambase_4500_20_sample_average_True_Logistic Regression_distance
+	2141.7881217055005
+explQual_Spambase_4500_20_sample_average_True_Logistic Regression_distance
+	5253.195326519313
+timings_Spambase_4500_20_sample_average_True_Logistic Regression_distance
+	478.2521102477622
+EXPLAINERS: ['fires', 'lime']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	0.88
+stability_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	1864.8758625037403
+explQual_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	5109.326933587206
+timings_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	30.26279656137922
+EXPLAINERS: ['fires']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	0.88
+stability_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	39.587693913459475
+explQual_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	6565.19362744833
+timings_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	3.5530419563583564
+EXPLAINERS: ['custom']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	0.88
+stability_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	29.14294117663753
+explQual_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	2262.376391549923
+timings_Spambase_4500_1_sample_average_False_Logistic Regression_distance
+	2.33634058010648

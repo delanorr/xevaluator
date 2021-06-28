@@ -1,0 +1,5 @@
+,Data set,Samples,Features,Positive Class
+0,RBF,5000,100,2198
+1,RTG,5000,100,1105
+2,Spambase,4601,57,1812
+3,Card Default,5000,23,1107

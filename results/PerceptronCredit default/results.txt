@@ -1,0 +1,80 @@
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_1_sample_average_False_Perceptron_distance
+	0.7066666666666667
+stability_Credit default_5000_1_sample_average_False_Perceptron_distance
+	6434.8638869511105
+explQual_Credit default_5000_1_sample_average_False_Perceptron_distance
+	8005.669771648043
+timings_Credit default_5000_1_sample_average_False_Perceptron_distance
+	8.711566792917438
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_20_sample_average_True_Perceptron_distance
+	0.7066666666666667
+stability_Credit default_5000_20_sample_average_True_Perceptron_distance
+	7208.3793474627255
+explQual_Credit default_5000_20_sample_average_True_Perceptron_distance
+	7962.6064950997015
+timings_Credit default_5000_20_sample_average_True_Perceptron_distance
+	150.17225318332203
+EXPLAINERS: ['fires', 'shap']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Credit default_5000_1_sample_average_False_Perceptron_distance
+	0.7066666666666667
+stability_Credit default_5000_1_sample_average_False_Perceptron_distance
+	4464.781048029444
+explQual_Credit default_5000_1_sample_average_False_Perceptron_distance
+	7618.7072068323205
+timings_Credit default_5000_1_sample_average_False_Perceptron_distance
+	11.86070632544579
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_1_sample_average_False_Perceptron_distance
+	0.7066666666666667
+stability_Credit default_5000_1_sample_average_False_Perceptron_distance
+	2777.159669047477
+explQual_Credit default_5000_1_sample_average_False_Perceptron_distance
+	5194.857097158462
+timings_Credit default_5000_1_sample_average_False_Perceptron_distance
+	20.941167983750347
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_20_sample_average_True_Perceptron_distance
+	0.7066666666666667
+stability_Credit default_5000_20_sample_average_True_Perceptron_distance
+	4688.1355227030535
+explQual_Credit default_5000_20_sample_average_True_Perceptron_distance
+	5446.30568507838
+timings_Credit default_5000_20_sample_average_True_Perceptron_distance
+	403.2657575010089
+EXPLAINERS: ['fires', 'lime']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Credit default_5000_1_sample_average_False_Perceptron_distance
+	0.7066666666666667
+stability_Credit default_5000_1_sample_average_False_Perceptron_distance
+	1805.8570631582086
+explQual_Credit default_5000_1_sample_average_False_Perceptron_distance
+	5891.187916036066
+timings_Credit default_5000_1_sample_average_False_Perceptron_distance
+	24.596959721588064
+EXPLAINERS: ['fires']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_1_sample_average_False_Perceptron_distance
+	0.7066666666666667
+stability_Credit default_5000_1_sample_average_False_Perceptron_distance
+	173.14078393207495
+explQual_Credit default_5000_1_sample_average_False_Perceptron_distance
+	6808.37916027459
+timings_Credit default_5000_1_sample_average_False_Perceptron_distance
+	3.3691050985944457
+EXPLAINERS: ['custom']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Credit default_5000_1_sample_average_False_Perceptron_distance
+	0.7066666666666667
+stability_Credit default_5000_1_sample_average_False_Perceptron_distance
+	250.03324273431295
+explQual_Credit default_5000_1_sample_average_False_Perceptron_distance
+	4880.289229136138
+timings_Credit default_5000_1_sample_average_False_Perceptron_distance
+	1.8481124746031128

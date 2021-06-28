@@ -1,0 +1,80 @@
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_Perceptron_distance
+	0.8133333333333334
+stability_Spambase_4500_1_sample_average_False_Perceptron_distance
+	7238.484291145701
+explQual_Spambase_4500_1_sample_average_False_Perceptron_distance
+	8172.041471056625
+timings_Spambase_4500_1_sample_average_False_Perceptron_distance
+	14.669272563885897
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_20_sample_average_True_Perceptron_distance
+	0.8133333333333334
+stability_Spambase_4500_20_sample_average_True_Perceptron_distance
+	5629.706403722423
+explQual_Spambase_4500_20_sample_average_True_Perceptron_distance
+	7955.201174689281
+timings_Spambase_4500_20_sample_average_True_Perceptron_distance
+	292.02277445979416
+EXPLAINERS: ['fires', 'shap']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Spambase_4500_1_sample_average_False_Perceptron_distance
+	0.8133333333333334
+stability_Spambase_4500_1_sample_average_False_Perceptron_distance
+	4445.401602290598
+explQual_Spambase_4500_1_sample_average_False_Perceptron_distance
+	7370.949656200968
+timings_Spambase_4500_1_sample_average_False_Perceptron_distance
+	18.235503175703343
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_Perceptron_distance
+	0.8133333333333334
+stability_Spambase_4500_1_sample_average_False_Perceptron_distance
+	2347.1922319220266
+explQual_Spambase_4500_1_sample_average_False_Perceptron_distance
+	4252.322720099238
+timings_Spambase_4500_1_sample_average_False_Perceptron_distance
+	27.349817503709346
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_20_sample_average_True_Perceptron_distance
+	0.8133333333333334
+stability_Spambase_4500_20_sample_average_True_Perceptron_distance
+	1987.5509074617917
+explQual_Spambase_4500_20_sample_average_True_Perceptron_distance
+	4492.238702949399
+timings_Spambase_4500_20_sample_average_True_Perceptron_distance
+	447.5926427068189
+EXPLAINERS: ['fires', 'lime']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_Spambase_4500_1_sample_average_False_Perceptron_distance
+	0.8133333333333334
+stability_Spambase_4500_1_sample_average_False_Perceptron_distance
+	1609.3200146145011
+explQual_Spambase_4500_1_sample_average_False_Perceptron_distance
+	5052.71627329015
+timings_Spambase_4500_1_sample_average_False_Perceptron_distance
+	27.60412564384751
+EXPLAINERS: ['fires']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_Perceptron_distance
+	0.8133333333333334
+stability_Spambase_4500_1_sample_average_False_Perceptron_distance
+	44.72450079312793
+explQual_Spambase_4500_1_sample_average_False_Perceptron_distance
+	6411.65801138315
+timings_Spambase_4500_1_sample_average_False_Perceptron_distance
+	3.5888393741333857
+EXPLAINERS: ['custom']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_Spambase_4500_1_sample_average_False_Perceptron_distance
+	0.8133333333333334
+stability_Spambase_4500_1_sample_average_False_Perceptron_distance
+	29.14294117663753
+explQual_Spambase_4500_1_sample_average_False_Perceptron_distance
+	2609.715652189917
+timings_Spambase_4500_1_sample_average_False_Perceptron_distance
+	2.4801897456054576

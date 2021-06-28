@@ -1,0 +1,80 @@
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	1.0
+stability_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	8544.077111061639
+explQual_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	8394.330990979926
+timings_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	142.2857420957298
+EXPLAINERS: ['shap']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RBF_5000_20_sample_average_True_MLPClassifier_distance
+	1.0
+stability_RBF_5000_20_sample_average_True_MLPClassifier_distance
+	7242.757018538581
+explQual_RBF_5000_20_sample_average_True_MLPClassifier_distance
+	7835.084225484695
+timings_RBF_5000_20_sample_average_True_MLPClassifier_distance
+	2423.8100044368184
+EXPLAINERS: ['fires', 'shap']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	1.0
+stability_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	5448.427779728639
+explQual_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	6879.98643183887
+timings_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	154.92892834194936
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	1.0
+stability_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	1508.1649346460035
+explQual_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	7647.677792421612
+timings_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	61.72324644419132
+EXPLAINERS: ['lime']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RBF_5000_20_sample_average_True_MLPClassifier_distance
+	1.0
+stability_RBF_5000_20_sample_average_True_MLPClassifier_distance
+	290.17605510862086
+explQual_RBF_5000_20_sample_average_True_MLPClassifier_distance
+	5043.637891297313
+timings_RBF_5000_20_sample_average_True_MLPClassifier_distance
+	694.9997055232525
+EXPLAINERS: ['fires', 'lime']
+EXPLAINER WEIGHTS: [0.5, 0.5]
+accuracy_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	1.0
+stability_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	1128.470298702533
+explQual_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	6770.067767621866
+timings_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	66.16289456398226
+EXPLAINERS: ['fires']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	1.0
+stability_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	109.29177640808331
+explQual_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	6259.524431077506
+timings_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	4.667252711311448
+EXPLAINERS: ['custom']
+EXPLAINER WEIGHTS: [1.0]
+accuracy_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	1.0
+stability_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	34.444163330509596
+explQual_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	7625.239761370405
+timings_RBF_5000_1_sample_average_False_MLPClassifier_distance
+	30.242866087995935

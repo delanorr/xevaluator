@@ -1,0 +1,26 @@
+\begin{tabular}{llrlrrlrr}
+\toprule
+         Classifier & Data set &  Accuracy &                   Explainer &  Stability &  Attribution Discrepancy & Top-10 Presence &  Top-10 Similarity &   Time \\
+\midrule
+Logistic Regression &      RTG &      0.76 & ['shap'][1.0]Ensemble=False &   8,268.73 &                 8,113.30 &               9 &              52.00 &   9.34 \\
+Logistic Regression &      RTG &      0.76 & ['lime'][1.0]Ensemble=False &   2,490.03 &                 4,627.24 &               7 &              26.20 &   6.63 \\
+Logistic Regression &      RTG &      0.76 & ['shap'][1.0]Ensemble=False &   7,293.49 &                 7,458.07 &               9 &              51.00 &  29.08 \\
+Logistic Regression &      RTG &      0.76 & ['lime'][1.0]Ensemble=False &   1,531.51 &                 2,695.69 &               8 &              47.00 &  13.50 \\
+Logistic Regression &      RTG &      0.76 &  ['shap'][1.0]Ensemble=True &   7,348.90 &                 7,310.70 &               8 &              32.87 &  87.15 \\
+Logistic Regression &      RTG &      0.76 &  ['lime'][1.0]Ensemble=True &   4,977.17 &                 5,920.50 &               8 &              27.33 & 113.19 \\
+Logistic Regression &      RTG &      0.76 &  ['shap'][1.0]Ensemble=True &   7,197.65 &                 7,283.98 &               8 &              32.87 & 357.06 \\
+Logistic Regression &      RTG &      0.76 &  ['lime'][1.0]Ensemble=True &   4,176.29 &                 5,659.30 &               8 &              32.87 & 146.70 \\
+Logistic Regression &      RBF &      1.00 & ['shap'][1.0]Ensemble=False &   8,400.35 &                 7,727.88 &              10 &              16.20 &  10.17 \\
+Logistic Regression &      RBF &      1.00 & ['lime'][1.0]Ensemble=False &   1,463.99 &                 3,590.53 &               6 &              10.13 &   7.10 \\
+Logistic Regression &      RBF &      1.00 & ['shap'][1.0]Ensemble=False &   7,376.40 &                 6,826.43 &              10 &              18.63 &  37.20 \\
+Logistic Regression &      RBF &      1.00 & ['lime'][1.0]Ensemble=False &     715.99 &                 1,661.38 &               7 &              19.00 &  14.38 \\
+Logistic Regression &      RBF &      1.00 &  ['shap'][1.0]Ensemble=True &   7,208.41 &                 6,924.67 &               7 &              12.14 & 109.08 \\
+Logistic Regression &      RBF &      1.00 &  ['lime'][1.0]Ensemble=True &   2,672.70 &                 3,647.11 &               4 &               8.50 &  68.91 \\
+Logistic Regression &      RBF &      1.00 &  ['shap'][1.0]Ensemble=True &   6,931.54 &                 6,782.20 &               7 &              12.14 & 417.36 \\
+Logistic Regression &      RBF &      1.00 &  ['lime'][1.0]Ensemble=True &   1,658.18 &                 2,688.38 &               7 &              11.03 & 148.13 \\
+Logistic Regression & Spambase &      0.88 & ['shap'][1.0]Ensemble=False &   7,168.42 &                 8,148.04 &               7 &              14.06 &   3.89 \\
+Logistic Regression & Spambase &      0.88 & ['lime'][1.0]Ensemble=False &   2,644.31 &                 4,006.69 &               6 &              18.37 &   6.49 \\
+Logistic Regression & Spambase &      0.88 & ['shap'][1.0]Ensemble=False &   6,333.01 &                 7,892.96 &               7 &              14.52 &  13.58 \\
+Logistic Regression & Spambase &      0.88 & ['lime'][1.0]Ensemble=False &   1,509.78 &                 3,084.45 &               5 &              15.50 &   9.01 \\
+\bottomrule
+\end{tabular}

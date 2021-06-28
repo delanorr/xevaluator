@@ -1,0 +1,38 @@
+\begin{tabular}{llrlrrlrr}
+\toprule
+   Classifier &       Data set &  Accuracy &                   Explainer &  Stability &  Attribution Discrepancy & Top-10 Presence &  Top-10 Similarity &     Time \\
+\midrule
+MLPClassifier &            RTG &      0.81 & ['shap'][1.0]Ensemble=False &   5,013.39 &                 7,215.31 &               5 &               8.62 &    21.61 \\
+MLPClassifier &            RTG &      0.81 & ['lime'][1.0]Ensemble=False &     813.34 &                 6,141.59 &               3 &              11.83 &    11.80 \\
+MLPClassifier &            RTG &      0.81 & ['shap'][1.0]Ensemble=False &   5,315.18 &                 7,173.34 &               5 &               8.73 &    66.31 \\
+MLPClassifier &            RTG &      0.81 & ['lime'][1.0]Ensemble=False &     889.53 &                 6,740.22 &               3 &               7.50 &    21.50 \\
+MLPClassifier &            RTG &      0.81 &  ['shap'][1.0]Ensemble=True &   7,623.39 &                 7,586.96 &               1 &               9.00 &   135.98 \\
+MLPClassifier &            RTG &      0.81 &  ['lime'][1.0]Ensemble=True &   1,418.90 &                 7,178.89 &               1 &               4.00 &    74.51 \\
+MLPClassifier &            RTG &      0.81 &  ['shap'][1.0]Ensemble=True &   6,805.86 &                 7,240.12 &               1 &               9.00 &   510.47 \\
+MLPClassifier &            RTG &      0.81 &  ['lime'][1.0]Ensemble=True &   1,403.56 &                 7,430.75 &               2 &               2.50 &   149.61 \\
+MLPClassifier &            RBF &      1.00 & ['shap'][1.0]Ensemble=False &   8,544.08 &                 8,394.33 &               0 &               0.00 &    28.64 \\
+MLPClassifier &            RBF &      1.00 & ['lime'][1.0]Ensemble=False &   1,508.16 &                 7,647.68 &               0 &               0.00 &    13.16 \\
+MLPClassifier &            RBF &      1.00 & ['shap'][1.0]Ensemble=False &   7,456.61 &                 7,711.28 &               0 &               0.00 &   101.71 \\
+MLPClassifier &            RBF &      1.00 & ['lime'][1.0]Ensemble=False &     719.83 &                 7,341.69 &               0 &               0.00 &    20.10 \\
+MLPClassifier &            RBF &      1.00 &  ['shap'][1.0]Ensemble=True &   7,909.27 &                 8,342.14 &               2 &               2.33 &   265.71 \\
+MLPClassifier &            RBF &      1.00 &  ['lime'][1.0]Ensemble=True &     290.18 &                 5,043.64 &               4 &               5.33 &    77.67 \\
+MLPClassifier &            RBF &      1.00 &  ['shap'][1.0]Ensemble=True &   6,546.48 &                 7,446.68 &               2 &               2.33 & 1,018.29 \\
+MLPClassifier &            RBF &      1.00 &  ['lime'][1.0]Ensemble=True &     356.87 &                 5,137.59 &               0 &               0.00 &   155.58 \\
+MLPClassifier &       Spambase &      0.93 & ['shap'][1.0]Ensemble=False &   7,283.82 &                 7,968.65 &               6 &              15.43 &     9.48 \\
+MLPClassifier &       Spambase &      0.93 & ['lime'][1.0]Ensemble=False &   1,536.41 &                 5,739.14 &               3 &               3.75 &    11.04 \\
+MLPClassifier &       Spambase &      0.93 & ['shap'][1.0]Ensemble=False &   6,451.41 &                 7,648.68 &               6 &              18.47 &    26.45 \\
+MLPClassifier &       Spambase &      0.93 & ['lime'][1.0]Ensemble=False &     816.00 &                 5,716.81 &               3 &               3.65 &    13.66 \\
+MLPClassifier &       Spambase &      0.93 &  ['shap'][1.0]Ensemble=True &   6,072.38 &                 7,805.86 &               2 &               1.97 &    45.58 \\
+MLPClassifier &       Spambase &      0.93 &  ['lime'][1.0]Ensemble=True &   1,584.98 &                 5,947.33 &               3 &               4.50 &    61.79 \\
+MLPClassifier &       Spambase &      0.93 &  ['shap'][1.0]Ensemble=True &   5,622.41 &                 7,653.95 &               2 &               1.62 &   170.73 \\
+MLPClassifier &       Spambase &      0.93 &  ['lime'][1.0]Ensemble=True &   1,268.14 &                 5,758.43 &               2 &               3.56 &    78.28 \\
+MLPClassifier & Credit default &      0.79 & ['shap'][1.0]Ensemble=False &   4,838.49 &                 7,456.88 &               5 &               8.89 &     7.74 \\
+MLPClassifier & Credit default &      0.79 & ['lime'][1.0]Ensemble=False &     411.57 &                 5,457.68 &               3 &              11.17 &     9.84 \\
+MLPClassifier & Credit default &      0.79 & ['shap'][1.0]Ensemble=False &   3,986.81 &                 7,016.57 &               5 &              12.93 &    14.14 \\
+MLPClassifier & Credit default &      0.79 & ['lime'][1.0]Ensemble=False &     475.98 &                 5,610.71 &               5 &              10.75 &    10.98 \\
+MLPClassifier & Credit default &      0.79 &  ['shap'][1.0]Ensemble=True &     864.83 &                 5,393.74 &               3 &               7.17 &    28.40 \\
+MLPClassifier & Credit default &      0.79 &  ['lime'][1.0]Ensemble=True &       0.00 &                 5,000.00 &               4 &               9.87 &    42.16 \\
+MLPClassifier & Credit default &      0.79 &  ['shap'][1.0]Ensemble=True &   1,024.83 &                 5,413.84 &               3 &               6.33 &    85.32 \\
+MLPClassifier & Credit default &      0.79 &  ['lime'][1.0]Ensemble=True &       0.00 &                 5,000.00 &               7 &               7.82 &    49.25 \\
+\bottomrule
+\end{tabular}
