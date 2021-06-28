@@ -1,13 +1,13 @@
-# XEvaluator
+# xEvaluator
 
 Environment for evaluation of explainability methods in data streams.
 
 Results included in *Approaches to Robust Online Explanations* paper can be found in `results` directory.
 They were generated with `experiments.py`.
 
-NOTICE: Not all of the configurations of the evaluator work. There are still some missing checks.
+NOTICE: Not all possible configurations of the evaluator work. There are still some missing checks.
 
-## Features:
+## Features
 - Extensible
     - inclusion of additional attribution schemes
     - for example, an attribution scheme which assumes that output `y = ax` is linearly dependent on attributions (`a`) and data points (`x`) with Gaussian prior and likelihood
@@ -22,11 +22,13 @@ NOTICE: Not all of the configurations of the evaluator work. There are still som
         - [LIME](https://github.com/marcotcr/lime)
     - custom attribution schemes can also be combined
 
-### Limitations:
+## Limitations
 - only tabular data
 - only classifiers with 2 classes
 
-#### Visualization
+## Visualization
+![xEval-viz](https://user-images.githubusercontent.com/74065598/123716693-880c0c00-d87b-11eb-84d2-47a0ea4a409d.gif)
+
 Real-time visualization shows 4 subplots:
 
 1. *Accuracy* -- top-left -- accuracy of the classifier in defined window of samples
