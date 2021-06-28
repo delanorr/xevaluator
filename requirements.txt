@@ -1,0 +1,8 @@
+shap==0.39.0
+pandas==1.2.4
+lime==0.2.0.1
+numpy==1.20.3
+matplotlib==3.3.4
+scikit_multiflow==0.5.3
+scipy==1.6.2
+scikit_learn==0.24.2
